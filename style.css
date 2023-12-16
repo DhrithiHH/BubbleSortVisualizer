@@ -1,0 +1,44 @@
+#cont{
+    display:flex;
+  background-color:rgb(172, 255, 47);
+    border: 5px solid black;
+    margin: auto;
+    height:50dvh;
+    max-height:50dvh;
+    width:80dvw;
+    overflow:hidden;
+    align-items:end;
+    align: "center";
+  }
+  .box{
+    width:20%;
+    height:90%;
+    margin:5px;
+    padding:1dvh;
+    background-color:blue;
+  }
+  button{
+    font-style:normal;
+    font-size: large;
+    padding:1%;
+    border: 3px solid black;
+    display :flex;
+    margin-top: 20% ;
+    margin: auto;
+    height : 20%;
+    width: 30%;
+    justify-content: center;
+    background-color:olive; 
+  }
+  header{
+    padding:1dvh;
+    margin:5dvh; 
+    font-size:48px;
+    font-family: "Times New Roman", Times, serif;
+    height:10dvh;
+    display:block;
+    text-align:center;
+  }
+  body{
+    background-color:goldenrod;
+  }
